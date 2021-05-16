@@ -1,0 +1,7 @@
+1- En esta carpeta, vamos a guardar los íconos que se utilizane en la página. Por ejemplo, el ícono que se visualiza en la pestaña del navegador.
+
+2- Para esto, vamos a usar la página web https://www.favicon-generator.org/
+
+3- Buscamos la imagen que nos guste, la cargamos a la página y sola nos generará todos los íconos.
+
+4- Estos íconos debemos guardarlos en la carpeta assets/favicons y copiar el código html en el head de nuestra página.
